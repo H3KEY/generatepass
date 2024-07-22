@@ -1,6 +1,6 @@
 # Author: h3key
 # Version: 1.0
-# All credit to h3k3y
+# All credit to h3key
 import random
 import string
 import tkinter as tk
