@@ -1,4 +1,4 @@
-# generatepass
+#password generator
 Hello everyone, I have created this script to generate passwords and save them in your directories.
 
 The characters can be modified in the special_characters variable.
